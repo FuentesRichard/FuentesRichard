@@ -4,6 +4,8 @@
 -Ex-piloto militar
 -Apaixonado por aprender
 
+ <head><link rel="stylesheet" href="style.css"></head> 
+
  <div>
   <a href="https://github.com/FuentesRichard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuentesRichard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,6 +31,5 @@
  
 </div>
 
-<link rel="stylesheet" href="style.css">
  ##
 
