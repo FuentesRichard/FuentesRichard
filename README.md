@@ -15,7 +15,7 @@
   <img align="center" alt="Richi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Richi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Richi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Richi." src="https://www.canva.com/design/DAEn7v7YL-Y/7ai-j22IYABDVrP4dfMwPA/view?utm_content=DAEn7v7YL-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <img align="right" alt="Richi-avatar" src="./images/richi-avatar">
 </div>
   
   ##
