@@ -1,7 +1,9 @@
 ## Oi! Eu sou o Richard!
 
 -Desenvolvedor Full-Stack
+
 -Ex-piloto militar
+
 -Apaixonado por aprender
 
  <head><link rel="stylesheet" href="style.css"></head> 
