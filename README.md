@@ -1,10 +1,10 @@
-## Oi! Eu sou o Richard!
+## Hi! Im Richard!
 
--Desenvolvedor Full-Stack
+-Mobile Developer
 
--Ex-piloto militar
+-Former military aviator cadet
 
--Apaixonado por aprender
+-Studing React Native
 
  <head><link rel="stylesheet" href="style.css"></head> 
 
