@@ -1,10 +1,10 @@
 ## Hi! Im Richard!
 
--Mobile Developer
+-FullStack Developer
 
 -Former military aviator cadet
 
--Studing React Native
+-Studing RabbitMQ
 
  <head><link rel="stylesheet" href="style.css"></head> 
 
