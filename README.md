@@ -1,6 +1,6 @@
 ## Hi! Im Richard!
 
--FullStack Developer
+-Backend Developer
 
 -Former military aviator cadet
 
